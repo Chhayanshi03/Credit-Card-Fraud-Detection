@@ -14,7 +14,7 @@ Contributing
 ## Introduction
 The dataset used for this project contains over 550,000 records of credit card transactions made by European cardholders in 2023. To protect the cardholders' identities, the data has been anonymized. The main purpose of this dataset is to assist in the development of fraud detection algorithms and models for identifying potentially fraudulent transactions.
 
-The dataset is taken from kaggle here.
+The dataset is taken from kaggle [here](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data).
 
 ## Libraries Used
 pandas
